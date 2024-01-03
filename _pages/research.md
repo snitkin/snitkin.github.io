@@ -1,7 +1,14 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Works In Progress"
+permalink: /works_in_progress/
+author_profile: true
+---
+
+---
+layout: archive
+title: "Research Assistant Work"
+permalink: /research_assistant/
 author_profile: true
 ---
 
