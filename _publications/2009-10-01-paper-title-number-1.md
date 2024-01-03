@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+title: "Is Within-Group Segregation a Substitute for Between-Group
+Segregation? Evidence from North Carolina Elementary Schools"
+collection: works_in_progress
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://snitkin.github.io/files/Nitkin_AIG.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Do people segregate within a group in response to increased group diversity? I study the
+impact of increased exposure to low-income students on gifted program assignment in North
+Carolina elementary schools. Using cohort-to-cohort variation within a school, I find that a 10
+percentage point increase in the low-income share of a student’s peers increases high-income
+students’ reading gifted status by 4.8% the following year, with no impacts for low-income
+students. Both high- and low-income students also experience gains in teacher evaluations
+from more low-income peers, consistent with a relative-rank theory of grading, but low-income
+students face greater negative impacts on test scores. These results indicate that increased
+economic diversity in schools worsens inequality in gifted program enrollment.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://snitkin.github.io/files/Nitkin_AIG.pdf)
