@@ -4,7 +4,6 @@ title: "Works In Progress"
 permalink: /works_in_progress/
 author_profile: true
 ---
-
 ---
 layout: archive
 title: "Research Assistant Work"
