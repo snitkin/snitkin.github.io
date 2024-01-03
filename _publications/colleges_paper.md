@@ -10,6 +10,5 @@ paperurl: 'https://opportunityinsights.org/paper/collegeadmissions/'
 citation: 'Chetty, R., Deming, D. J., & Friedman, J. N. (2023). &quot;Diversifying Society’s Leaders? The Causal Effects of Admission to Highly Selective Private Colleges&quot; <i>revise and resubmit, Quarterly Journal of Economics</i>'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://snitkin.github.io/files/CollegeAdmissions_Paper.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
