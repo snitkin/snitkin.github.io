@@ -8,9 +8,10 @@ body {
 
 .hero {
   display: grid;
-  grid-template-columns: 600px minmax(0, 1fr);
+  grid-template-columns: 420px 600px;
   gap: 2.5rem;
   align-items: center;
+  justify-content: center;
   margin: 1.5rem 0 2.5rem;
 }
 
@@ -32,6 +33,10 @@ body {
   object-fit: cover;
   object-position: center;
   border: 1px solid #ddd;
+}
+
+.hero-text {
+  max-width: 600px;
 }
 
 .contact-icons {
