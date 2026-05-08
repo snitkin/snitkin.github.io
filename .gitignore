@@ -1,0 +1,9 @@
+/.quarto/
+/_site/
+.DS_Store
+.Rhistory
+files/nitkin_headshot.jpg
+files/nitkin_headshot.png
+
+
+**/*.quarto_ipynb
