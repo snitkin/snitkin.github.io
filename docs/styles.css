@@ -2,23 +2,20 @@ body {
   color: #222;
 }
 
-.page-columns .content {
-  grid-column: body-content-start / body-content-end;
-}
-
-main.content {
-  max-width: 1080px;
-}
-
 .navbar-title {
   font-weight: 700;
 }
 
+.quarto-title h1.title {
+  text-align: center;
+}
+
 .hero {
   display: grid;
-  grid-template-columns: 420px minmax(0, 1fr);
+  grid-template-columns: 420px 850px;
   gap: 2.5rem;
   align-items: center;
+  justify-content: center;
   margin: 1.5rem 0 2.5rem;
 }
 
@@ -40,6 +37,10 @@ main.content {
   object-fit: cover;
   object-position: center;
   border: 1px solid #ddd;
+}
+
+.hero-text {
+  max-width: 850px;
 }
 
 .contact-icons {
@@ -111,6 +112,16 @@ a.plain-link {
 a.plain-link:hover {
   color: inherit;
   text-decoration: underline;
+}
+
+@media (min-width: 900px) {
+  .page-columns .content {
+    grid-column: body-content-start / body-content-end;
+  }
+
+  main.content {
+    max-width: 1480px;
+  }
 }
 
 @media (max-width: 700px) {

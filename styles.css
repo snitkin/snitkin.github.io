@@ -6,9 +6,13 @@ body {
   font-weight: 700;
 }
 
+.quarto-title h1.title {
+  text-align: center;
+}
+
 .hero {
   display: grid;
-  grid-template-columns: 420px 600px;
+  grid-template-columns: 420px 850px;
   gap: 2.5rem;
   align-items: center;
   justify-content: center;
@@ -36,7 +40,7 @@ body {
 }
 
 .hero-text {
-  max-width: 600px;
+  max-width: 850px;
 }
 
 .contact-icons {

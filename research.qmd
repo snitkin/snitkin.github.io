@@ -2,11 +2,14 @@
 title: "Research"
 ---
 
-## Works in Progress
+## Working Papers
 
-### Kumon Up: The Effects of Private Tutoring Centers on Student Achievement 
+### [Kumon Up: Private Tutoring Centers and Student Achievement](https://www.nber.org/system/files/working_papers/w35671/w35671.pdf)
 
 with Joshua Goodman
 
-### Is it Better to Wait or to Waitress? The Long-Run Effects of Teen Employment
+Private tutoring chains like Kumon and Sylvan have expanded rapidly in recent decades. Combining data on business locations, household spending, and district test scores, we study who uses these centers and how they affect academic skills. Nearly half of tutoring users are from the top income decile, with Asian and White households five and two times as likely to purchase tutoring as Black and Hispanic households. A staggered differences-in-differences design shows the opening of a district's first chain center raises district-wide math and reading scores by 0.02-0.03 standard deviations, at a much lower cost than public spending typically producing similar gains. Math effects are largest for White and Asian students, so that center entry widens racial achievement gaps, though less so in more racially integrated districts. These private investments help their users, deepen educational inequality, and shape outcomes by which state accountability systems and families judge schools.
 
+## Works in Progress
+
+### Is it Better to Wait or to Waitress? The Long-Run Effects of Teen Employment
