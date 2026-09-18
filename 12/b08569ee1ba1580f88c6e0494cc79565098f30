@@ -1,0 +1,23 @@
+docs/research.html
+  s_5a7dddad7700a9::t_14d2eba47fa5f4 150-151
+research.qmd
+  s_5a7dddad7700a9::t_6e2a5dbf8266c3 15
+docs/search.json
+  s_5a7dddad7700a9::t_14d2eba47fa5f4 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "12b08569ee1ba1580f88c6e0494cc79565098f30",
+  "prompts": {},
+  "sessions": {
+    "s_5a7dddad7700a9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0b5ae-9d7d-7733-b227-7c5b96387037",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Sam Nitkin <samuel.nitkin@gmail.com>"
+    }
+  }
+}
