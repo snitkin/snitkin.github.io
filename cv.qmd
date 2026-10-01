@@ -1,2 +1,2 @@
 
-<iframe class="cv-embed" src="files/nitkin_cv.pdf" title="Samuel Nitkin CV"></iframe>
+<iframe class="cv-embed" src="files/nitkin_cv.pdf?v=20261001" title="Samuel Nitkin CV"></iframe>
